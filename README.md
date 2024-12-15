@@ -15,6 +15,13 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 ```sh
 npm install
 ```
+```sh
+npm install axios
+```
+```sh
+npm install json-server
+```
+
 
 ### Compile and Hot-Reload for Development
 
